@@ -1,4 +1,4 @@
 # InitiliazeGitHub
 
-This is for an assignment. I severely hate myself for doing this.
+This is for an assignment. I am very tired and my eyes feel dry.
 
